@@ -1,2 +1,2 @@
 # ListaAvaliativa2
-um simulador de playlist do spotify
+um simulador de playlist
